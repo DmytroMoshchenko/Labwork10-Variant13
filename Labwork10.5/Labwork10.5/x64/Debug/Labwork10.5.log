@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\admin\OneDrive\Рабочий стол\Project\Labwork10.5\Labwork10.5\main.cpp(12,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Labwork10.5.vcxproj -> C:\Users\admin\OneDrive\Рабочий стол\Project\Labwork10.5\x64\Debug\Labwork10.5.exe
